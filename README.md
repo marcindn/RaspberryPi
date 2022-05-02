@@ -1,12 +1,9 @@
 <h1>RaspberryPi</h1>
-<h3>Wprowadzenie</h3>
-Instalacja systemu na „RaspberryPi” w tym przypadku „Kali Linuxa”, potrzebna będzie do tego „karat pamięci”
-<div></div> Instalacje systemu wymaga też instalowania specjalnego programu <a href= "https://github.com/marcindn/RaspberryPi/blob/main/imager_1.7.2.exe" target="#">„Raspberry Pi Imager”</a>
 
 <h4>Strony z oprogramowaniem</h4>
-- https://www.kali.org/get-kali/#kali-arm
+- https://www.kali.org/get-kali/#kali-arm (Nazwa "kali" / Hasło "kali")
 <div></div>
-- https://www.raspberrypi.com/software/ (Nazwa "kali" / Hasło "kali")
+- https://www.raspberrypi.com/software/ 
 
 <h2>Instalacja Systemu</h2>
 1. Instalujemy program o nazwie <a href= "https://github.com/marcindn/RaspberryPi/blob/main/imager_1.7.2.exe" target="#">"imager_1.7.2.exe"</a>
@@ -35,7 +32,7 @@ Instalacja systemu na „RaspberryPi” w tym przypadku „Kali Linuxa”, potrz
 <div></div>
 9. Pod koniec instalacji wyskoczy powiadomienie, klikamy "CONTINUE"
 <div></div>
-10. System jest zainstalowany na karcie, którą wpinamy do naszego <a href= "https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="#">RaspberryPi</a>
+10. System jest zainstalowany na karcie, którą wpinamy do naszego <a href= "https://www.youtube.com/watch?v=iik25wqIuFo" target="#">RaspberryPi</a>
 <h2>Instalacja Systemu na Urządzeniu</h2>
 1. Podłączamy urządzenie do zasilania (Wypada też podłączyć monitor jak i myszkę i klawiaturę)
 <div></div>
