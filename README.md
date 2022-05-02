@@ -32,7 +32,7 @@
 <div></div>
 9. Pod koniec instalacji wyskoczy powiadomienie, klikamy "CONTINUE"
 <div></div>
-10. System jest zainstalowany na karcie, którą wpinamy do naszego <a href= "https://www.youtube.com/watch?v=iik25wqIuFo" target="#">RaspberryPi</a>
+10. System jest zainstalowany na karcie, którą wpinamy do naszego <a href= "https://www.youtube.com/watch?v=iik25wqIuFo" target="#">"RaspberryPi"</a>
 <h2>Instalacja Systemu na Urządzeniu</h2>
 1. Podłączamy urządzenie do zasilania (Wypada też podłączyć monitor jak i myszkę i klawiaturę)
 <div></div>
