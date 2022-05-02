@@ -44,6 +44,5 @@
 <h4>Informacje</h4>
 "RaspberryPi" uważam że jest jedno z lepszych urządzeń/minikomputerów,
 sama instalacja nie jest jakoś ciężka ale instrukcja zawsze się przyda.
-<div></div>
 Życzę miłej zabawy z tym świetnym urządzeniem.
 W razie pytań pisz na mojego Instagram <a href= "https://www.instagram.com/marcindn/" target="#">marcindn</a> :F
